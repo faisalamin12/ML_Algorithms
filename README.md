@@ -12,7 +12,8 @@ This repository is a collection of various machine learning algorithms implement
 - Random Forest 🌲
 - Support Vector Machine ⚖️
 - K-fold Cross Validation 🔀
-- K-means Clustering (Unsupervised Learning) 🔵
+- K-Nearest Neighbour 🔵
+- K-means Clustering (Unsupervised Learning) 🔵 
 
 Each algorithm is accompanied by detailed code implementation, along with explanations to help you grasp the concepts and utilize them effectively. The code is well-documented and structured for ease of understanding and integration into your projects.
 
